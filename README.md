@@ -1,1 +1,1 @@
-# INeuron_Delloite_Case_Study
+# Delloite_Case_Study
